@@ -1,0 +1,2 @@
+/*This will be a script that generates random workouts 
+  for push pull leg days */
