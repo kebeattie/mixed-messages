@@ -18,4 +18,4 @@ To run this project locally on your command line, you will need the latest versi
 
 ## License
 
-This project is licensed under the Mit License.
+This project is licensed under the [Mit License] (https://github.com/kebeattie/mixed-messages/blob/main/License.txt).
